@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar_5.navbar-nav{
+  margin-right: 0;
+}
+.NavBarTemp nav{
+  border-radius: 5px;
+}
+
+.form_1 input::placeholder{
+  color:rgb(66, 66, 66);
+}
