@@ -7,7 +7,7 @@ import * as iconsim from "react-icons/im";
 // import * as iconsgr  from "react-icons/gr";
 const Mainfooter = () => {
     return (
-        <div>
+        <div className='mt-5 pt-5'>
             <footer style={{ background: "#FFC436", color: "white" }}>
                 <div className="container">
                     <div className="row pb-2 pt-2" style={{ textAlign: "center" }}>

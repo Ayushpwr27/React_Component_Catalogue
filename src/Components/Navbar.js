@@ -6,7 +6,7 @@ import * as iconsgr  from "react-icons/gr";
 const Navbar = () => {
     return (
     <div className='NavBarTemp mx-3 mt-4'>  
-        <h3 style={{textAlign:"center",borderRadius:"20px", color:"white",fontWeight:"bolder"}} className='mb-4'>
+        <h3 style={{textAlign:"center",borderRadius:"20px", color:"white",fontWeight:"bolder"}} className='m-5'>
         Designs For Different Navbars That Can Be Used In A Website</h3>
         <div className='Navbar_1 my-2' style={{borderRadius:"20px"}}>
             <nav className="navbar center navbar-expand-lg " style={{backgroundColor:"#F6635C"}} data-bs-theme="dark">
