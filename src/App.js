@@ -19,6 +19,7 @@ import {
   Route
 } from "react-router-dom";
 import About from './Components/About';
+import Mainfooter from './Components/Mainfooter';
 function App() {
   return (
     <>
@@ -41,6 +42,7 @@ function App() {
         <Route path="/footer" element={<Footer/>}></Route>
       </Routes>
     </div>
+    <Mainfooter/>
     </BrowserRouter>
     </>
   );
