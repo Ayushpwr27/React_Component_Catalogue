@@ -5,7 +5,7 @@ const Mainnav = () => {
         <>
             <nav className="navbar navbar-expand-lg" data-bs-theme="dark" style={{ backgroundColor:"#FFC436"}} >
                 <div className="container-fluid mx-5">
-                    <Link className="navbar-brand" style={{color:"#191D88", fontWeight:"bolder"}} to="/">React Templates Catalogue </Link>
+                    <Link className="navbar-brand" style={{color:"#191D88", fontWeight:"bolder"}} to="/">Ayushpwr React Templates Catalogue </Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
