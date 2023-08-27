@@ -1,6 +1,6 @@
 import React from 'react'
 import heroImage from '../Image/3236267.png'
-import imgBg from '../Image/bg.png'
+// import imgBg from '../Image/bg.png'
 const Hero = () => {
   return (
     <div>
